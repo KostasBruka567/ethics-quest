@@ -228,7 +228,7 @@ scenarios = [
             },
             {
                 "text": {
-                    "Greek": "⚔️ Επιθετική Αντεπίθεση: Προσπάθεια 'αντι-χακαρίσματος' για ανάκτηση του ελέγχου, Είναι παράνομο και τεχνικά ριψοκίνδυνο. Αν οι χάκερ καταλάβουν ότι τους επιτίθεσαι μπορεί να διαγράψουν τα πάντα οριστικά "από εκδίκηση" (kill switch), οπότε το ρεύμα δεν θα επανέλθει ποτέ.",
+                    "Greek": "⚔️ Επιθετική Αντεπίθεση: Προσπάθεια 'αντι-χακαρίσματος' για ανάκτηση του ελέγχου, Είναι παράνομο και τεχνικά ριψοκίνδυνο. Αν οι χάκερ καταλάβουν ότι τους επιτίθεσαι μπορεί να διαγράψουν τα πάντα οριστικά 'από εκδίκηση' (kill switch), οπότε το ρεύμα δεν θα επανέλθει ποτέ.",
                     "English": "⚔️ Aggressive Counter-attack: Attempt to 'hack back' to regain control. It is illegal and technically risky. If the hackers realize you are attacking them, they might delete everything permanently as an act of 'revenge' (kill switch), meaning the power grid would never be restored."
                 },
                 "impact": {"Ασφάλεια": 10, "Κέρδος/Αποδοτικότητα": -20}
