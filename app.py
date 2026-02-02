@@ -184,8 +184,8 @@ scenarios = [
             },
             {
                 "text": {
-                    "Greek": "🔐 Τεχνική Διασφάλιση: Χρήση προηγμένων μεθόδων κρυπτογράφησης (Differential Privacy) που προστατεύουν τους ασθενείς, έστω και με κόστος στην ακρίβεια.",
-                    "English": "🔐 Technical Assurance: Use advanced encryption (Differential Privacy) to protect patients, even at a cost to accuracy."
+                    "Greek": "🔐 Τεχνική Διασφάλιση: Χρήση προηγμένων μεθόδων κρυπτογράφησης (Differential Privacy) που προστατεύουν τους ασθενείς, έστω και με κόστος στην ακρίβεια και μείωση της χρηματοδότησης.",
+                    "English": "🔐 Technical Assurance: Use advanced encryption (Differential Privacy) to protect patients, even at a cost to accuracy and funds decrease."
                 },
                 "impact": {"Ιδιωτικότητα": 20, "Κέρδος/Αποδοτικότητα": 10}
             },
@@ -221,15 +221,15 @@ scenarios = [
             },
             {
                 "text": {
-                    "Greek": "🛡️ Άρνηση Συμβιβασμού: Καμία διαπραγμάτευση με εγκληματίες. Επιλογή της δύσκολης οδού της ανάκτησης συστημάτων, παρά το κοινωνικό κόστος.",
-                    "English": "🛡️ Refuse Compromise: No negotiations with criminals. Choosing the hard path of system recovery, despite the social cost."
+                    "Greek": "🛡️ Άρνηση Συμβιβασμού: Καμία διαπραγμάτευση με εγκληματίες. Επιλογή της δύσκολης οδού της ανάκτησης συστημάτων, παρά το κοινωνικό κόστος(2 μέρες).",
+                    "English": "🛡️ Refuse Compromise: No negotiations with criminals. Choosing the hard path of system recovery, despite the social cost(2 days)."
                 },
                 "impact": {"Ασφάλεια": -20, "Κοινωνική Δικαιοσύνη": 20}
             },
             {
                 "text": {
-                    "Greek": "⚔️ Επιθετική Αντεπίθεση: Προσπάθεια 'αντι-χακαρίσματος' για ανάκτηση του ελέγχου, ρισκάροντας όμως τη μόνιμη καταστροφή των δεδομένων.",
-                    "English": "⚔️ Aggressive Counter-attack: Attempt to 'hack back' to regain control, risking permanent data destruction."
+                    "Greek": "⚔️ Επιθετική Αντεπίθεση: Προσπάθεια 'αντι-χακαρίσματος' για ανάκτηση του ελέγχου, Είναι παράνομο και τεχνικά ριψοκίνδυνο. Αν οι χάκερ καταλάβουν ότι τους επιτίθεσαι μπορεί να διαγράψουν τα πάντα οριστικά "από εκδίκηση" (kill switch), οπότε το ρεύμα δεν θα επανέλθει ποτέ.",
+                    "English": "⚔️ Aggressive Counter-attack: Attempt to 'hack back' to regain control. It is illegal and technically risky. If the hackers realize you are attacking them, they might delete everything permanently as an act of 'revenge' (kill switch), meaning the power grid would never be restored."
                 },
                 "impact": {"Ασφάλεια": 10, "Κέρδος/Αποδοτικότητα": -20}
             }
